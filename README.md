@@ -16,11 +16,11 @@ Install
 4. Go to the Python sample folder
 5. Run the command "python3 testJsonRPCClient.py"
 
-```
+## Update this repo
 
-## Transfer changes to the remote repo
-git add -A
+Update this repo
+---------------
 
-git commit -m "Changes made because..."
-
-git push -u origin main
+1. git add -A
+2. git commit -m "Changes made because..."
+3. git push -u origin main
