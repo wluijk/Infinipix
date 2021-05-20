@@ -1,0 +1,6 @@
+c:\barco\backedup\files\visual studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\bin\TestCreatingJsonRPCClient.dll
+c:\barco\backedup\files\visual studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\bin\TestCreatingJsonRPCClient.pdb
+c:\barco\backedup\files\visual studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\obj\Debug\TestCreatingJsonRPCClient.dll
+c:\barco\backedup\files\visual studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\obj\Debug\TestCreatingJsonRPCClient.pdb
+C:\Barco\BackedUp\Files\Visual Studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\bin\Newtonsoft.Json.dll
+C:\Barco\BackedUp\Files\Visual Studio 2012\Projects\TestCreatingJsonRPCClient\TestCreatingJsonRPCClient\obj\Debug\TestCreatingJsonRPCClient.csprojResolveAssemblyReference.cache
