@@ -7,9 +7,18 @@ Status: Python version is in use. Other versions are prototypes
 
 ## Install
 
-```bash
-npm install firebase angularfire2 --save
+```Python
+download the zip
+install python
+go to the Python folder
+run python3 testJsonRPCClient.py
+
 ```
+
+## Transfer changes to the remote repo
+git add -A
+git commit -m "Changes made because..."
+git push -u origin main
 
 ## Example use:
 
