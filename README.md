@@ -7,9 +7,6 @@ Status: Python version is in use. Other versions are prototypes
 
 ## Install
 
-Install 
----------------
-
 1. Install the Python language
 2. Download the zip of this repo
 3. Unpack the files
@@ -17,9 +14,6 @@ Install
 5. Run the command "python3 testJsonRPCClient.py"
 
 ## Update this repo
-
-Update this repo
----------------
 
 1. git add -A
 2. git commit -m "Changes made because..."
