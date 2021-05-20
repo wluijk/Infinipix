@@ -8,10 +8,11 @@ Status: Python version is in use. Other versions are prototypes
 ## Install
 
 ```Python
-download the zip
-install python
-go to the Python folder
-run python3 testJsonRPCClient.py
+### install python
+### download the zip
+### unpack the Python sample
+### run this command:
+python3 testJsonRPCClient.py
 
 ```
 
