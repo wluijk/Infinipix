@@ -8,7 +8,7 @@ Status: Python version is in use. Other versions are prototypes
 
 ## Known issues
 1. Functionnames in the code received from the Barco company are not camel cased
-2. In the Python code is a hardcoded username+password encrupted string used
+2. In the Python code is a hardcoded username+password encrypted string used
 
 ## Install
 
