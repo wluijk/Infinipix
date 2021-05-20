@@ -7,7 +7,6 @@ Status: Python version is in use. Other versions are prototypes
 
 ## Install
 
-```Python
 ### install python
 ### download the zip
 ### unpack the Python sample
