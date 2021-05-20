@@ -1,0 +1,6 @@
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\bin\Debug\Barco.Led.NM.JsonRPCDataModel.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\bin\Debug\Barco.Led.NM.JsonRPCDataModel.pdb
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\bin\Debug\Newtonsoft.Json.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\bin\Debug\Newtonsoft.Json.xml
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\obj\Debug\Barco.Led.NM.JsonRPCDataModel.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Barco.Led.NM.JsonRPCDataModel\obj\Debug\Barco.Led.NM.JsonRPCDataModel.pdb

@@ -1,0 +1,197 @@
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRpcTestClient.csprojResolveAssemblyReference.cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Interop.SpeechLib.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRpcTestClient.csproj.ResolveComReference.cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRpcTestClient.csproj.GenerateResource.Cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCWebService.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.ServiceModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Server.Services.Contracts.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Frameworks.IO.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.Configuration.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Entities.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.UpdateServer.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.UpdateServer.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Frameworks.UpdateServer.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Constants.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.ULPProtocol.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Exceptions.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Database.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Communication.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Npgsql.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Mono.Security.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCWebService.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.ServiceModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Server.Services.Contracts.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Frameworks.IO.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Frameworks.IO.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.Configuration.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Entities.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.UpdateServer.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.UpdateServer.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Frameworks.UpdateServer.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Constants.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.ULPProtocol.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Exceptions.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Database.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.HAL.Communication.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.config
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.AuthenticateForm.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Form1.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ImageProcessingParams.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ipChoose.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Properties.Resources.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.TestingRestStyle.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.JsonRPC.TestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.config
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCWebService.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.ServiceModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Server.Services.Contracts.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Frameworks.IO.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.Configuration.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Entities.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.UpdateServer.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.UpdateServer.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Frameworks.UpdateServer.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.DataModel.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Constants.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.ULPProtocol.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Exceptions.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Database.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Communication.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Npgsql.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Mono.Security.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCWebService.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SystemAccess.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.ServiceModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Server.Services.Contracts.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Frameworks.IO.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Frameworks.IO.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.Configuration.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.Utilities.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Entities.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.UpdateServer.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.UpdateServer.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Frameworks.UpdateServer.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.DataModel.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Constants.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.IO.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.ULPProtocol.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Exceptions.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Database.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Validator.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.HAL.Communication.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.pdb
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.LiveDots.Frameworks.SoftwarePackage.Common.xml
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csprojResolveAssemblyReference.cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Interop.SpeechLib.dll
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.ResolveComReference.cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.AuthenticateForm.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Form1.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ImageProcessingParams.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ipChoose.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Properties.Resources.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.TestingRestStyle.resources
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.GenerateResource.Cache
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\MainDev\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.config
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCDataModel.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCDataModel.pdb
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Interop.SpeechLib.dll
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.ResolveComReference.cache
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.AuthenticateForm.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Form1.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ImageProcessingParams.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ipChoose.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Properties.Resources.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.TestingRestStyle.resources
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.GenerateResource.Cache
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\Projs\Dev_Release6\main\DSC\Source\Roadrunner\Source\Service\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csprojResolveAssemblyReference.cache
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csprojAssemblyReference.cache
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Interop.SpeechLib.dll
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.ResolveComReference.cache
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.AuthenticateForm.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Form1.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ImageProcessingParams.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.ipChoose.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.Properties.Resources.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.TestingRestStyle.resources
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.GenerateResource.cache
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.CoreCompileInputs.cache
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.config
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.exe
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCTestClient.pdb
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCDataModel.dll
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Newtonsoft.Json.dll
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\bin\Debug\Barco.Led.NM.JsonRPCDataModel.pdb
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.exe.manifest
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.application
+C:\JsonRPCExamples (1)\JsonRPCExamples\CSharp_TestClient\Code\Barco.Led.NM.JsonRPCTestClient\obj\Debug\Barco.Led.NM.JsonRPCTestClient.csproj.CopyComplete
