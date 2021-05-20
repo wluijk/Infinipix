@@ -21,16 +21,3 @@ git add -A
 git commit -m "Changes made because..."
 
 git push -u origin main
-
-## Example use:
-
-### Sample 1
-
-### Sample 2
-
-## Developer Guide
-
-### Getting started
-
-### Interacting with your database(s)
-
