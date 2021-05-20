@@ -11,7 +11,12 @@ Status: Python version is in use. Other versions are prototypes
 2. Download the zip of this repo
 3. Unpack the files
 4. Go to the Python sample folder
-5. Run the command "python3 testJsonRPCClient.py"
+
+## Tweak to your needs
+
+1. Change the IP address of the remote controller
+2. Change the username and password so they match the ones in the controller
+3. Create a new EncryptedString (see manual. you can use the ASP.NET sample for it)
 
 ## Update this repo
 
