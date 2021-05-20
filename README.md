@@ -17,9 +17,7 @@ run python3 testJsonRPCClient.py
 
 ## Transfer changes to the remote repo
 git add -A
-
 git commit -m "Changes made because..."
-
 git push -u origin main
 
 ## Example use:
